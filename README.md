@@ -115,16 +115,18 @@ Base de conhecimento técnico para estudos, anotações, arquitetura, programaç
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Evolução no GitHub
 
-<div align="center">
+Estou organizando meus projetos públicos para refletir melhor minha experiência prática com desenvolvimento de software, modernização de sistemas legados, Flutter, Java, Delphi e uso de IA aplicada ao desenvolvimento.
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoandradeo&show_icons=true&theme=default&hide_border=true)
+Nos próximos repositórios, pretendo compartilhar estudos, exemplos práticos e projetos relacionados a:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoandradeo&layout=compact&theme=default&hide_border=true)
-
-</div>
-
+- Modernização de aplicações Delphi.
+- Desenvolvimento mobile com Flutter.
+- Testes automatizados em Java.
+- Arquitetura de software.
+- Integrações REST, JSON e XML.
+- Workflows com IA, Codex, agentes e automações.
 ---
 
 ## 🤝 Vamos conectar?
